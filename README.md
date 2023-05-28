@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React Start
+
+Reactで起動する。
+
+```sh
+yarn start
+```
+
+## Electron Start
+
+Electron で起動する。
+
+```sh
+yarn electron-start
+```
+
+## Electron Build
+
+Electronでビルドする。
+
+```sh
+yarn build
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
